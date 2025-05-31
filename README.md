@@ -5,7 +5,6 @@ This project focuses on implementing and evaluating techniques for reducing nois
 ## 📁 Project Structure
 
 - `improved noise reduction.ipynb` — Jupyter Notebook containing code, explanations, and results.
-- `improved-noise-reduction.md` — Markdown version of the notebook (for easier GitHub viewing).
 
 ## 🚀 Features
 
